@@ -15,7 +15,7 @@ sections:
       - type: action
         title: Faça uma simulação
         url: /store
-        style: link
+        style: primary
         arrow: true
   - type: featured_products_section
     title: Best sellers
