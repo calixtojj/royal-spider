@@ -13,7 +13,7 @@ sections:
       enable Cart actions.
     actions:
       - type: action
-        title: See all items
+        title: Faça agora uma simulacão
         url: /store
         style: primary
         arrow: true
