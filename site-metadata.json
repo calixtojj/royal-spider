@@ -20,7 +20,7 @@
         {
             "type": "action",
             "title": "Institucional",
-            "url": "/institucional",
+            "url": "/about",
             "style": "link"
         },
         {
