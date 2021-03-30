@@ -15,15 +15,15 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: We love plants
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+        description: >
+          > Durante os trinta anos trabalhando como eletricista da CEMIG, ouvi
+          queixas de nossos clientes referente ao alto custo da energia
+          elétrica. Foram inúmeras dicas passadas a diversos consumidores
+          ensinando formas de reduzir o consumo de energia, e esta era a única
+          forma de economizar até então: reduzindo o consumo; mas como reduzir o
+          consumo se a cada dia adquirimos mais eletrônicos e eletrodomésticos?
+          Quem nunca pensou em ter um ar condicionado? Porém logo vem o medo da
+          conta subir.
         image: /images/painel_sol_vertical.jpg
       - title: We think plants are the future
         description: >-
