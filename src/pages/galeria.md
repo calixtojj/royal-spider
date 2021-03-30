@@ -1,6 +1,6 @@
 ---
 title: Galeria
-white_header: false
+white_header: true
 sections: []
 template: advanced
 ---
