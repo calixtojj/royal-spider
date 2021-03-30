@@ -14,7 +14,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: Consumo de energia
         description: >
           "Durante os trinta anos trabalhando como eletricista da CEMIG, ouvi
           queixas de nossos clientes referente ao alto custo da energia
