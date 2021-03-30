@@ -1,5 +1,4 @@
 import BulletpointsSection from './BulletpointsSection';
-import BuyButton from './BuyButton';
 import ContactSection from './ContactSection';
 import FaqSection from './FaqSection';
 import FeaturedCategoriesSection from './FeaturedCategoriesSection';
