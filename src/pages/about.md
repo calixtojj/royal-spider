@@ -38,7 +38,7 @@ sections:
     background_image: /images/friendly-parsley.svg
     cta:
       type: action
-      title: Discover
+      title: Simular
       url: /store
       style: primary
       arrow: true
