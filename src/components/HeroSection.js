@@ -16,7 +16,7 @@ export default class HeroSection extends React.Component {
                 <div className="hero__title">Energia solar é <span
      class="txt-rotate"
      data-period="2000"
-     data-rotate='[ "economia.", "sustentável.", "J7 Energia.", "pretty.", "fun!" ]'></span></div>
+     data-rotate='[ "economia.", "sustentável.", "J7 Energia."]'></span></div>
                 <div className="hero__links link-group">
                   {_.map(_.get(section, 'actions', null), (action, action_idx) => {
                       let action_style = _.get(action, 'style', null) || 'primary';
