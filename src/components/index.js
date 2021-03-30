@@ -22,7 +22,6 @@ import Layout from './Layout';
 
 export {
     BulletpointsSection,
-    BuyButton,
     ContactSection,
     FaqSection,
     FeaturedCategoriesSection,
