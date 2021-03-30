@@ -7,7 +7,7 @@ sections:
     background_image: /images/adorable-neptune.svg
     headline: Somos a J7
     subtitle: >
-      Nossa missão é implantar sistemas de transformação dos raios solares em
+      Nossa missão é implantar um sistema de transformação dos raios solares em
       energia elétrica limpa, tendo como benefício a redução do custo com a
       fatura de energia elétrica e a proteção do meio ambiente, agregando
       valores para residências, comércios e indústrias.
