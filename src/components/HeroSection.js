@@ -15,6 +15,7 @@ export default class HeroSection extends React.Component {
                 )}
                 <div className="hero__title">
                     
+                    
                     Energia solar é <span
      class="txt-rotate"
      data-period="2000"
