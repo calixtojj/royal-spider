@@ -13,7 +13,7 @@
     "main_menu": [
         {
             "type": "action",
-            "title": "Store",
+            "title": "Galeria",
             "url": "/store",
             "style": "link"
         },
