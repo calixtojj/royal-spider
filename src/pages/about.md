@@ -6,13 +6,11 @@ sections:
     section_id: header_section
     background_image: /images/adorable-neptune.svg
     headline: Somos a J7
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      Nossa missão é implantar sistemas de transformação dos raios solares em
+      energia elétrica limpa, tendo como benefício a redução do custo com a
+      fatura de energia elétrica e a proteção do meio ambiente, agregando
+      valores para residências, comércios e indústrias.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
