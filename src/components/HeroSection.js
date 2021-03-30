@@ -13,7 +13,9 @@ export default class HeroSection extends React.Component {
                 {_.get(section, 'background_image', null) && (
                 <div className="hero__bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\'); opacity: ' + bg_img_opacity + ';')}/>
                 )}
-                <div className="hero__title">Energia solar é <span
+                <div className="hero__title">
+                    
+                    Energia solar é <span
      class="txt-rotate"
      data-period="2000"
      data-rotate='[ "economia.", "sustentável.", "J7 Energia."]'></span></div>
