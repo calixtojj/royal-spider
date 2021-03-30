@@ -34,7 +34,6 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: "Faça\_já uma simulação"
-    subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/friendly-parsley.svg
     cta:
