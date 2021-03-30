@@ -24,6 +24,13 @@
             "style": "link"
         },
         {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
             "type": "action",
             "title": "FAQ",
             "url": "/faq",
