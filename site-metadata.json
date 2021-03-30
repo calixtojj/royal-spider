@@ -14,7 +14,7 @@
         {
             "type": "action",
             "title": "Galeria",
-            "url": "/store",
+            "url": "/galeria",
             "style": "link"
         },
         {
