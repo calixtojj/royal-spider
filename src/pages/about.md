@@ -28,7 +28,7 @@ sections:
 
           **- Jonathan Campos, eletricista**
         image: /images/painel_sol_vertical.jpg
-      - title: We think plants are the future
+      - title: Economia e sustentabilidade
         description: "A J7 Energia nasce exatamente para resolver de uma vez por todas esta questão.\_\n\nAtravés da instalação de sistema de geração de eletricidade a partir da energia solar, diversos clientes estão satisfeitos por estarem gerando a própria energia, além da redução em sua conta, redução esta que varia entre 80 e 90% na maioria dos casos.\n\nÉ uma grande alegria gerar satisfação aos nossos clientes e reduzir o impacto ao meio ambiente.\n"
         image: images/team.jpg
   - type: promotion_section
