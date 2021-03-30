@@ -45,7 +45,6 @@ export {
 
 export default {
     BulletpointsSection,
-    BuyButton,
     ContactSection,
     FaqSection,
     FeaturedCategoriesSection,
