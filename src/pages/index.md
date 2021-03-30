@@ -14,7 +14,7 @@ sections:
     actions:
       - type: action
         title: Faça uma simulação
-        url: /store
+        url: /simulador
         style: primary
         arrow: true
   - type: featured_products_section
