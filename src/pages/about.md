@@ -29,12 +29,7 @@ sections:
           **- Jonathan Campos, eletricista**
         image: /images/painel_sol_vertical.jpg
       - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: "A J7 Energia nasce exatamente para resolver de uma vez por todas esta questão.\_\n\nAtravés da instalação de sistema de geração de eletricidade a partir da energia solar, diversos clientes estão satisfeitos por estarem gerando a própria energia, além da redução em sua conta, redução esta que varia entre 80 e 90% na maioria dos casos. É uma grande alegria gerar satisfação aos nossos clientes e reduzir o impacto ao meio ambiente.\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
