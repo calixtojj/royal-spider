@@ -23,7 +23,7 @@ sections:
           forma de economizar até então: reduzindo o consumo; mas como reduzir o
           consumo se a cada dia adquirimos mais eletrônicos e eletrodomésticos?
           Quem nunca pensou em ter um ar condicionado? Porém logo vem o medo da
-          conta subir."
+          conta subir." - Jonathan Campos, eletricista
         image: /images/painel_sol_vertical.jpg
       - title: We think plants are the future
         description: >-
