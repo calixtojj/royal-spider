@@ -28,6 +28,13 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "footer_text": "Copyright 2021 J7 Energia. Todos os direitos reservados."
