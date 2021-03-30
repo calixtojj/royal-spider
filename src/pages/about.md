@@ -39,7 +39,7 @@ sections:
     cta:
       type: action
       title: Simular
-      url: /store
+      url: /simulador
       style: primary
       arrow: true
 template: advanced
