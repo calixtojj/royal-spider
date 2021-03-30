@@ -50,7 +50,7 @@ sections:
           useful products with people we love feels meaningful enough.
   - type: contact_section
     section_id: contact_section
-    image: /images/painel_telhado.jpg
+    image: /images/20201216_114210.jpg
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
     email: geeks@snipcart.com
