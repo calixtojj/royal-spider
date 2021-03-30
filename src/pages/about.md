@@ -16,14 +16,14 @@ sections:
     bulletpoints:
       - title: We love plants
         description: >
-          > Durante os trinta anos trabalhando como eletricista da CEMIG, ouvi
+          "Durante os trinta anos trabalhando como eletricista da CEMIG, ouvi
           queixas de nossos clientes referente ao alto custo da energia
           elétrica. Foram inúmeras dicas passadas a diversos consumidores
           ensinando formas de reduzir o consumo de energia, e esta era a única
           forma de economizar até então: reduzindo o consumo; mas como reduzir o
           consumo se a cada dia adquirimos mais eletrônicos e eletrodomésticos?
           Quem nunca pensou em ter um ar condicionado? Porém logo vem o medo da
-          conta subir.
+          conta subir."
         image: /images/painel_sol_vertical.jpg
       - title: We think plants are the future
         description: >-
