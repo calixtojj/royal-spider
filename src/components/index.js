@@ -1,4 +1,5 @@
 import BulletpointsSection from './BulletpointsSection';
+import BuyButton from './BuyButton';
 import ContactSection from './ContactSection';
 import FaqSection from './FaqSection';
 import FeaturedCategoriesSection from './FeaturedCategoriesSection';
@@ -21,6 +22,7 @@ import Layout from './Layout';
 
 export {
     BulletpointsSection,
+    BuyButton,
     ContactSection,
     FaqSection,
     FeaturedCategoriesSection,
@@ -44,6 +46,7 @@ export {
 
 export default {
     BulletpointsSection,
+    BuyButton,
     ContactSection,
     FaqSection,
     FeaturedCategoriesSection,
