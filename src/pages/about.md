@@ -34,7 +34,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: "Faça\_já uma simulação"
-    image: /images/painel_telhado.jpg
+    image: /images/20201216_114210.jpg
     background_image: /images/friendly-parsley.svg
     cta:
       type: action
