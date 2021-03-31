@@ -1,6 +1,6 @@
 ---
 title: Galeria
-white_header: true
+white_header: false
 sections:
   - section_id: lorem-ipsum
     background_image_opacity: 0
