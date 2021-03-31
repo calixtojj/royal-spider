@@ -44,7 +44,9 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Ainda em dúvida?
-    subtitle: from $149.99
+    subtitle: >-
+      Parcele seu sistema no cartão de crédito em até 12x ou em até 72x via
+      financiamento
     image: /images/important-steel.jpg
     background_image: images/leaf.svg
     cta:
