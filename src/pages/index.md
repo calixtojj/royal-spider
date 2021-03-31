@@ -17,47 +17,38 @@ sections:
         url: /simulador
         style: primary
         arrow: true
-  - type: featured_products_section
-    title: Best sellers
-    section_id: best_sellers_section
-    light_title: true
-    icon: true
-    featured_products:
-      - src/pages/products/plant1.md
-      - src/pages/products/plant3.md
-      - src/pages/products/plant5.md
-      - src/pages/products/plant7.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - src/pages/category/bigplants.md
-      - src/pages/category/cactuses.md
+  - section_id: lorem-ipsum
+    bulletpoints:
+      - title: lorem-ipsum
+        description: |
+          Venda e instalação de kits de geração de energia elétrica.
+        image: /images/20210107_154125.jpg
+    type: bulletpoints_section
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Depoimentos
     testimonials:
-      - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+      - text: J7 Energia é parceiro correspondente SANTANDER
         author:
-          name: John Dope
-          location: 'Colorado, USA'
+            name: Jonathan Campos
+            location: Juiz de Fora
       - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Trabalhamos com vários fornecedores com o objetivo de trazer economia
+          na aquisição de seu sistema
         author:
           name: Major Payne
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
+    title: Ainda em dúvida?
+    subtitle: >-
+      Parcele seu sistema no cartão de crédito em até 12x ou em até 72x via
+      financiamento
+    image: /images/important-steel.jpg
     background_image: images/leaf.svg
     cta:
       type: action
-      title: Discover
+      title: Simulador
       url: /store
       style: secondary
       arrow: true
