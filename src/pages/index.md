@@ -22,6 +22,18 @@ sections:
       - description: |
           ## Venda e instalação de kits de geração de energia elétrica.
         image: /images/20210107_154125.jpg
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
   - type: promotion_section
     section_id: promotion_section
