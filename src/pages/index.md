@@ -33,8 +33,8 @@ sections:
           name: Jonathan Campos
           location: Juiz de Fora
       - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Trabalhamos com vários fornecedores com o objetivo de trazer economia
+          na aquisição de seu sistema
         author:
           name: Major Payne
           location: 'VA, USA'
