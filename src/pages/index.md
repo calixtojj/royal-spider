@@ -26,7 +26,7 @@ sections:
     type: bulletpoints_section
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Depoimentos
     testimonials:
       - text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
