@@ -1,5 +1,5 @@
 ---
-title: Home
+title: J7 Energia
 white_header: true
 sections:
   - type: hero_section
