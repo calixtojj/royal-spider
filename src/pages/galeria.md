@@ -3,8 +3,6 @@ title: Galeria
 white_header: true
 sections:
   - section_id: lorem-ipsum
-    type: store_section
-  - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
@@ -18,5 +16,7 @@ sections:
 
       - dolor sit amet
     type: header_section
+  - section_id: lorem-ipsum
+    type: store_section
 template: advanced
 ---
