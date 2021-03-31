@@ -20,17 +20,10 @@ sections:
   - section_id: lorem-ipsum
     bulletpoints:
       - title: lorem-ipsum
-        description: >-
+        description: |
           ## Lorem ipsum
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Venda e instalação de kits de geração de energia elétrica.
         image: /images/20210107_154125.jpg
     type: bulletpoints_section
   - type: testimonials_section
