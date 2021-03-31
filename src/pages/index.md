@@ -43,7 +43,7 @@ sections:
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Ainda em dúvida?
     subtitle: from $149.99
     image: /images/important-steel.jpg
     background_image: images/leaf.svg
