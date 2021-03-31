@@ -17,5 +17,6 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: /images/IMG_20210314_200134_984.jpg
 template: advanced
 ---
