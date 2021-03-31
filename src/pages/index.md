@@ -1,5 +1,5 @@
 ---
-title: Home
+title: J7 Energia
 white_header: true
 sections:
   - type: hero_section
@@ -9,8 +9,7 @@ sections:
     content: >-
       # Real, beautiful plants right to your door
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Don't forget to add your Snipcart API key to the site's configuration to enable Cart actions.
     actions:
       - type: action
         title: Faça uma simulação
@@ -36,19 +35,17 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
+      - text: I didn't know the Snipcart guys were into herbs as well! How beautiful is
+          that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
         author:
           name: John Dope
-          location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
+          location: Colorado, USA
+      - text: Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
         author:
           name: Major Payne
-          location: 'VA, USA'
+          location: VA, USA
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
