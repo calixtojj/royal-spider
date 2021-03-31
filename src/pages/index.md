@@ -17,6 +17,9 @@ sections:
         url: /simulador
         style: primary
         arrow: true
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -46,8 +49,5 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
-    bulletpoints: []
-    type: bulletpoints_section
 template: home
 ---
