@@ -21,8 +21,6 @@ sections:
     bulletpoints:
       - title: lorem-ipsum
         description: |
-          ## Lorem ipsum
-
           Venda e instalação de kits de geração de energia elétrica.
         image: /images/20210107_154125.jpg
     type: bulletpoints_section
