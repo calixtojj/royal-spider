@@ -31,7 +31,7 @@ sections:
       - text: Minha conta de energia elétrica reduziu de R$400 para R$70
         author:
           name: Jonathan Campos
-          location: 'Colorado, USA'
+          location: Juiz de Fora
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
