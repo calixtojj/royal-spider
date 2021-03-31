@@ -46,5 +46,8 @@ sections:
       url: /store
       style: secondary
       arrow: true
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: home
 ---
