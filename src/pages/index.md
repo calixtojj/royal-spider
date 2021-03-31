@@ -28,7 +28,7 @@ sections:
     section_id: testimonials_section
     title: Depoimentos
     testimonials:
-      - text: Minha conta de energia elétrica reduziu de R$400 para R$70
+      - text: A conta de energia elétrica
         author:
           name: Jonathan Campos
           location: Juiz de Fora
