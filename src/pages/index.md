@@ -28,9 +28,7 @@ sections:
     section_id: testimonials_section
     title: Depoimentos
     testimonials:
-      - text: >-
-          A conta de energia elétrica aqui em casa era por volta de R$400, hoje
-          com a
+      - text: J7Energia é parceiro correspondente SANTANDER
         author:
           name: Jonathan Campos
           location: Juiz de Fora
