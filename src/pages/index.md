@@ -29,6 +29,9 @@ sections:
     title: Depoimentos
     testimonials:
       - text: J7 Energia é parceiro correspondente SANTANDER
+        author:
+            name: Jonathan Campos
+            location: Juiz de Fora
       - text: >-
           Trabalhamos com vários fornecedores com o objetivo de trazer economia
           na aquisição de seu sistema
