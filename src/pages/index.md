@@ -23,8 +23,10 @@ sections:
           ## Venda e instalação de kits de geração de energia elétrica.
 
 
+
+
           ## Parcele seu sistema no cartão de crédito em até 12x ou em até 72x
-          via financiamento
+          via financiamento.
         image: /images/20210107_154125.jpg
       - description: >
           # J7 Energia é parceiro correspondente SANTANDER.
