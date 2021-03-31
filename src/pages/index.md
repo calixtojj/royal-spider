@@ -39,9 +39,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Ainda em dúvida?
-    subtitle: >-
-      Parcele seu sistema no cartão de crédito em até 12x ou em até 72x via
-      financiamento
+    subtitle: Estamos a disposicao
     image: /images/important-steel.jpg
     background_image: images/leaf.svg
     cta:
