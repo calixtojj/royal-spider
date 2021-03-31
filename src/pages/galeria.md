@@ -16,6 +16,6 @@ sections:
 
       - dolor sit amet
     type: header_section
-    background_image: /images/20201216_114210.jpg
+    background_image: /images/IMG_20210314_200134_984.jpg
 template: advanced
 ---
