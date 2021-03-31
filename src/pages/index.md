@@ -44,7 +44,6 @@ sections:
     background_image: images/leaf.svg
     cta:
       type: action
-      title: Simular
       url: /store
       style: secondary
       arrow: true
