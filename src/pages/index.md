@@ -30,7 +30,7 @@ sections:
     testimonials:
       - text: Minha conta de energia elétrica reduziu de R$400 para R$70
         author:
-          name: John Dope
+          name: Jonathan Campos
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
