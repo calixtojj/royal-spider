@@ -24,20 +24,6 @@ sections:
           Venda e instalação de kits de geração de energia elétrica.
         image: /images/20210107_154125.jpg
     type: bulletpoints_section
-  - type: testimonials_section
-    section_id: testimonials_section
-    title: Depoimentos
-    testimonials:
-      - text: J7 Energia é parceiro correspondente SANTANDER
-        author:
-          name: Jonathan Campos
-          location: Juiz de Fora
-      - text: >-
-          Trabalhamos com vários fornecedores com o objetivo de trazer economia
-          na aquisição de seu sistema
-        author:
-          name: Major Payne
-          location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
     title: Ainda em dúvida?
