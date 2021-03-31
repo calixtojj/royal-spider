@@ -27,9 +27,11 @@ sections:
           via financiamento
         image: /images/20210107_154125.jpg
       - description: >
-          ## J7Energia é parceiro correspondente SANTANDER.
-          &#xA;&#xA;Trabalhamos com vários fornecedores com o objetivo de trazer
-          economia na aquisição de seu sistema.
+          ## J7 Energia é parceiro correspondente SANTANDER. 
+
+
+          ## &#xA;&#xA;Trabalhamos com vários fornecedores com o objetivo de
+          trazer economia na aquisição de seu sistema.
         image: /images/1611174144162.png
     type: bulletpoints_section
   - type: promotion_section
