@@ -19,8 +19,7 @@ sections:
         arrow: true
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
-        description: |
+      - description: |
           Venda e instalação de kits de geração de energia elétrica.
         image: /images/20210107_154125.jpg
     type: bulletpoints_section
