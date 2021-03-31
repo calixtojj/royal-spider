@@ -46,7 +46,8 @@ sections:
     title: Ainda em dúvida?
     subtitle: >-
       Parcele seu sistema no cartão de crédito em até 12x ou em até 72x via
-      financiamento <br> 
+      financiamento <br> Parcele seu sistema no cartão de crédito em até 12x ou
+      em até 72x via financiamento
     image: /images/important-steel.jpg
     background_image: images/leaf.svg
     cta:
