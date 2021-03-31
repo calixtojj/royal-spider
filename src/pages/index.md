@@ -47,5 +47,6 @@ sections:
       url: /store
       style: secondary
       arrow: true
+      title: Contato
 template: home
 ---
