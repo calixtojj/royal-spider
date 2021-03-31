@@ -28,7 +28,7 @@ sections:
     section_id: testimonials_section
     title: Depoimentos
     testimonials:
-      - text: J7Energia é parceiro correspondente SANTANDER
+      - text: J7 Energia é parceiro correspondente SANTANDER
         author:
           name: Jonathan Campos
           location: Juiz de Fora
