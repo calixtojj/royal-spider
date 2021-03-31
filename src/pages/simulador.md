@@ -1,5 +1,5 @@
 ---
-title: Institucional
+title: Simulador
 page_css_class: gray-background
 white_header: false
 sections:
