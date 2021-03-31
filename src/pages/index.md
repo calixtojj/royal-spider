@@ -19,8 +19,12 @@ sections:
         arrow: true
   - section_id: lorem-ipsum
     bulletpoints:
-      - description: |
+      - description: >
           ## Venda e instalação de kits de geração de energia elétrica.
+
+
+          ## Parcele seu sistema no cartão de crédito em até 12x ou em até 72x
+          via financiamento
         image: /images/20210107_154125.jpg
       - title: lorem-ipsum
         description: >-
