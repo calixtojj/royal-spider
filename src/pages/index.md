@@ -19,38 +19,34 @@ sections:
         arrow: true
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
-        description: |
-          Venda e instalação de kits de geração de energia elétrica.
+      - description: >
+          ## Venda e instalação de kits de geração de energia elétrica.
+
+
+
+
+          ## Parcele seu sistema no cartão de crédito em até 12x ou em até 72x
+          via financiamento.
         image: /images/20210107_154125.jpg
+      - description: >
+          # J7 Energia é parceiro correspondente SANTANDER.
+
+
+          # &#xA;&#xA;Trabalhamos com vários fornecedores com o objetivo de
+          trazer economia na aquisição de seu sistema.
+        image: /images/1611174144162.png
     type: bulletpoints_section
-  - type: testimonials_section
-    section_id: testimonials_section
-    title: Depoimentos
-    testimonials:
-      - text: J7 Energia é parceiro correspondente SANTANDER
-        author:
-            name: Jonathan Campos
-            location: Juiz de Fora
-      - text: >-
-          Trabalhamos com vários fornecedores com o objetivo de trazer economia
-          na aquisição de seu sistema
-        author:
-          name: Major Payne
-          location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
     title: Ainda em dúvida?
-    subtitle: >-
-      Parcele seu sistema no cartão de crédito em até 12x ou em até 72x via
-      financiamento
+    subtitle: Estamos a disposicao
     image: /images/important-steel.jpg
     background_image: images/leaf.svg
     cta:
       type: action
-      title: Simulador
       url: /store
       style: secondary
       arrow: true
+      title: Contato
 template: home
 ---
