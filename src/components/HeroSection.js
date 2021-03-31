@@ -5,6 +5,7 @@ import {toStyleObj, withPrefix, markdownify, Link, classNames} from '../utils';
 
 export default class HeroSection extends React.Component {
     render() {
+        var ReactRotatingText = require('react-rotating-text');
         let section = _.get(this.props, 'section', null);
         let bg_img_opacity_pct = _.get(section, 'background_image_opacity', null) || 100;
         let bg_img_opacity = bg_img_opacity_pct * 0.01;
@@ -13,7 +14,7 @@ export default class HeroSection extends React.Component {
                 {_.get(section, 'background_image', null) && (
                 <div className="hero__bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\'); opacity: ' + bg_img_opacity + ';')}/>
                 )}
-                <div className="hero__title">{markdownify(_.get(section, 'content', null))}</div>
+                <div className="hero__title">Energia solar é <ReactRotatingText items={['sustentabilidade', 'economia', 'o futuro', 'J7 Energia']} pause={2000} /></div>
                 <div className="hero__links link-group">
                   {_.map(_.get(section, 'actions', null), (action, action_idx) => {
                       let action_style = _.get(action, 'style', null) || 'primary';
