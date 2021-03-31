@@ -31,7 +31,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image: /images/adorable-neptune.svg
+        image: /images/20190717_170908.jpg
     type: bulletpoints_section
   - type: testimonials_section
     section_id: testimonials_section
