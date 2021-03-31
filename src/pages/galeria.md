@@ -2,7 +2,7 @@
 title: Galeria
 white_header: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: galeria
     background_image_opacity: 0
     content: >-
       ## Lorem ipsum
