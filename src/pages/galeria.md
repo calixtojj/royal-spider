@@ -3,7 +3,6 @@ title: Galeria
 white_header: true
 sections:
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
 
