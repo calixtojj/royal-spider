@@ -28,7 +28,7 @@ sections:
     section_id: testimonials_section
     title: Depoimentos
     testimonials:
-      - text: A conta de energia elétrica
+      - text: 'A conta de energia elétrica aqui em casa era R$400, hoje com a'
         author:
           name: Jonathan Campos
           location: Juiz de Fora
